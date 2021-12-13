@@ -11,4 +11,4 @@ Api for statistics in projct: https://61b6c9b0c95dd70017d41020.mockapi.io/users
 
 Api for store contact info: https://formspree.io/f/meqnqgzv
 
-Gist for resume.json: https://gist.githubusercontent.com/xu842251462/68f3da2cccdb5becc8e7a989aacd76ff/raw/8196e15c9b6fffa9689d676f8099b72d7d715e59/resume.json
+Gist for resume.json: https://gist.githubusercontent.com/xu842251462/68f3da2cccdb5becc8e7a989aacd76ff/raw/49e740c7899e89c6845a7d4fda142e6595d02ec8/resume.json

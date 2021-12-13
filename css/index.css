@@ -46,7 +46,7 @@ h3, p {
     margin-bottom: 10px;
 }
 
-.header, .footer {
+.header, .footer, .statistics{
     grid-column: 1 / -1;
     /* needed for the floated layout */
     clear: both;
