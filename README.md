@@ -1,6 +1,6 @@
 # CS601_XU Final Project Resume
 
-Bin Xu
+Bin Xu, Group 2
 
 Instructor: Jennifer Looper,
             Christian Carducci
