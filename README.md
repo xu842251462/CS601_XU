@@ -1,4 +1,4 @@
-# CS601_XU Final Project Resume
+# CS601_XU Final Project Resume 2021 Fall
 
 Bin Xu, Group 2
 
