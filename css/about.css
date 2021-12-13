@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background: lightgray;
+}
+
+section#biography {
+    margin-top: 50px;
+}
