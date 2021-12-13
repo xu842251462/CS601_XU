@@ -48,18 +48,23 @@
       "loc": "Vanguard Group",
       "duration": "Feb 2020 - Feb 2021",
       "desc": [
-        "Still fairly new at the job, will update once I'm more experienced!"
+        "Developed Micro Services using Spring Boot",
+        "Automated build process through Maven builds framework",
+        "Designed and developed Application based on Spring Boot and Hibernate",
+        "Effectively implemented rest APIs for assignment",
+        "Implemented Spring Security to provide security features like Authentication/Authorization and using JWT plus Oath2",
+        "Test driven development wrote Junit test cases for the developed methods. Unit, Integration and System Testing"
       ]
     },
     {
       "title": "SOFTWARE ENGINEERING",
       "loc": "Vistados LLC",
-      "duration": "Aug – Jan, 2019",
+      "duration": "Aug – Jan, 2020",
       "desc": [
-        "A 'brain robotics' company focused on the practical usages of EEG headbands in training focus and relaxation for students and athletes, as well as reinventing AI-powered prosthetic arms for amputees.",
-        "Created cross-platform games / exercises in React.js and Node.js built on Electron.js.",
+        "Responsible for design UI/UX, implement Bootstrap, Html, CSS, TypeScript, JQuery to the Wire creation screens to accomplish UI modern look and functions.",
+        "Participate in design the project structure includes: Presentation layer, Data access layer, Business logic layer, Domain layer and so on.",
         "Coordinated with the design team in drafting and implementing UI/UX mockup designs.",
-        "Updated the company website with Vue.js."
+        "Build Models, View Model to pass data between views and entity framework; build repository layer to convert business logic from Share Point project to our new .Net Core Solution."
       ]
     },
     {
@@ -67,7 +72,6 @@
       "loc": "GEP",
       "duration": "May – Aug, 2019",
       "desc": [
-        "A 'brain robotics' company focused on the practical usages of EEG headbands in training focus and relaxation for students and athletes, as well as reinventing AI-powered prosthetic arms for amputees.",
         "Created cross-platform games / exercises in React.js and Node.js built on Electron.js.",
         "Coordinated with the design team in drafting and implementing UI/UX mockup designs.",
         "Updated the company website with Vue.js."
@@ -76,9 +80,9 @@
   ],
   "project": [
     {
-      "organizer": "BOSTONHACKS",
-      "loc": "Boston University",
-      "duration": "Nov 16-17, 2019",
+      "organizer": "GEP",
+      "loc": "Clark, NJ",
+      "duration": "May - Aug, 2019",
       "desc": [
         "Rosetta Kart uses Bose Frames as a wearable game controller in a MarioKart inspired language learning app! In this demo, the player hears English instructions over the Frames, and steers the Karts with head tilts/turns to drive through blocks with Mandarin characters matching up to their English counterparts!"
       ]
@@ -94,9 +98,7 @@
       ]
     },
     {
-      "organizer": "HACK(H)ER413",
-      "loc": "UMass Amherst",
-      "duration": "Feb 09 - 10, 2019",
+      "organizer": "Vistados LLC",
       "desc": [
         "Built a Machine Learning Model that identifies breed combinations of mix-bred dogs and cats to help raise adoption rates in animal shelters using Google Cloud AutoML Vision.",
         "Achieved an accuracy rate of 97.04% with the custom-trained model, a 3.259% improvement from using the pre-trained model of Google Cloud Vision API.",
