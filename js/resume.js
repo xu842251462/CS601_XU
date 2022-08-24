@@ -1,4 +1,4 @@
-const url_resume = "https://gist.githubusercontent.com/xu842251462/68f3da2cccdb5becc8e7a989aacd76ff/raw/bd3943c518c3daad9b7c0ea2c8a3b98ae7daf45b/resume.json";
+const url_resume = "https://gist.githubusercontent.com/xu842251462/68f3da2cccdb5becc8e7a989aacd76ff/raw/33b89ad029f4277d9458cdd6fb04773229b19bfc/resume.json";
 getResume(url_resume);
 
 //fetch data from public url
